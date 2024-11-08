@@ -14,4 +14,4 @@ accountEmail="vartika@gmail.com"
 accountPassword="8760"
 accountCity="delhi"
 
-console.table([accountId,accountEmail,accountPassword,accountCity]);
+console.table([accountId,accountEmail,accountPassword,accountCity,accountState]);
